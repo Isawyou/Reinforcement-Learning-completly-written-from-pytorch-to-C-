@@ -1,4 +1,4 @@
-# Reinforcement Learning completely written from PyTorch to C# Unity Asset 
+# Reinforcement Learning completely written in to C# Unity Asset 
 
 have fun !
 
